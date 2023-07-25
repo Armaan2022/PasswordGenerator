@@ -1,4 +1,4 @@
- import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import './PasswordGenerator.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCopy, faCircleInfo } from '@fortawesome/free-solid-svg-icons'
