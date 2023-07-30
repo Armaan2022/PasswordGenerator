@@ -4,7 +4,7 @@
 <p>The Password Generator is a responsive web application built using HTML, CSS AND ReactJS that allows users to generate strong and secure passwords. With this application, users can customize the length of the password and include various character types to make their passwords more secure. The application has been designed to be responsive, ensuring that users can access it from various devices, including desktops, tablets, and mobile phones.</p>
 
 <h2>Live Demo</h2>
-<p>A live demo of the Password Generator can be found <a href="https://password-generator-armaan.netlify.app/" target=_blank>here</a>.</p>
+<p>A live demo of the Password Generator can be found <a href="https://password-generator-armaan.netlify.app/" target="_blank">here</a>.</p>
 
 <h2>Features</h2>
 <ul>
